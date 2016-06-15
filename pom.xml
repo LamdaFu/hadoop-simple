@@ -4,7 +4,7 @@
 	<groupId>lamdafu</groupId>
 	<artifactId>hadoop-simple</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>λ夫 -  Simple Hadoop Job</name>
+	<name>λ夫 - Simple Job</name>
 	<description>Creates a job jar with basic uber packaging and no frills</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
