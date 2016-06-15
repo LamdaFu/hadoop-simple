@@ -39,6 +39,11 @@
 					<descriptors>
 						<descriptor>src/main/assembly/job.xml</descriptor>
 					</descriptors>
+					<archive>
+						<manifest>
+							<mainClass>lamdafu.hadoop.simple.SimpleTool</mainClass>
+						</manifest>
+					</archive>
 				</configuration>
 				<executions>
 					<execution>
